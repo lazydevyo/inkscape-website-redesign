@@ -37,5 +37,5 @@ It’s meant as a design concept that could be integrated into the actual websit
 
 Need a graphic designer who also can code? 
 - [peachy.graphics](https://peachy.graphics)
-- [Instagram (For DMs)](https://peachy.graphics)
+- [Instagram (For DMs)](https://www.instagram.com/peachyartgraphics/)
 - Or just email: hello@peachy.graphics
