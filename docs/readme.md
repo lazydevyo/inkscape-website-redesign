@@ -22,13 +22,12 @@ It’s meant as a design concept that could be integrated into the actual websit
 
 ### Desktop
 ![Desktop](../screenshots/home-page_1.jpg)
-![Desktop](../screenshots/home-page_2.jpg)
 ![Desktop](../screenshots/home-page_3.jpg)
+![Desktop](../screenshots/home-page_5.jpg)
 [See all](../screenshots/)
 
 ### Mobile
-![Mobile](../screenshots/mobile_1.jpg)
-![Mobile](../screenshots/mobile_2.jpg)
+![Mobile](../screenshots/mobile.png)
 
 ## Usage / Preview
 1. Clone the repository.  
