@@ -36,6 +36,6 @@ It’s meant as a design concept that could be integrated into the actual websit
 3. Launch `index.html` in any modern web browser.  
 
 Need a graphic designer who also can code? 
-[peachy.graphics](https://peachy.graphics)
-[Instagram (For DMs)](https://peachy.graphics)
-Or just email: hello@peachy.graphics
+- [peachy.graphics](https://peachy.graphics)
+- [Instagram (For DMs)](https://peachy.graphics)
+- Or just email: hello@peachy.graphics
