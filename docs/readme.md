@@ -21,14 +21,14 @@ It’s meant as a design concept that could be integrated into the actual websit
 ## Screenshots
 
 ### Desktop
-![Desktop](screenshots/home-page_1.jpg)
-![Desktop](screenshots/home-page_2.jpg)
-![Desktop](screenshots/home-page_3.jpg)
-[See all](screenshots/)
+![Desktop](../screenshots/home-page_1.jpg)
+![Desktop](../screenshots/home-page_2.jpg)
+![Desktop](../screenshots/home-page_3.jpg)
+[See all](../screenshots/)
 
 ### Mobile
-![Mobile](screenshots/mobile_1.jpg)
-![Mobile](screenshots/mobile_2.jpg)
+![Mobile](../screenshots/mobile_1.jpg)
+![Mobile](../screenshots/mobile_2.jpg)
 
 ## Usage / Preview
 1. Clone the repository.  
