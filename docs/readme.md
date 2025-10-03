@@ -1,4 +1,5 @@
 # Inkscape Website Re-Design
+![preview](preview.jpg)
 
 ## Overview
 A modern redesign of the [Inkscape](https://inkscape.org) home page.  
